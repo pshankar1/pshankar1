@@ -1,0 +1,57 @@
+body {
+  background-image:url(dark.png);
+  background-color:navy;
+  font-family: Sans-Serif;
+	color: white;
+}
+
+h1 {
+  text-color: white;
+  color: navy;
+  margin-left: 40px;
+  text-align:center;
+  color: gold;
+}
+
+h2{
+	color: yellow;
+	font-style:italic;
+	text-align:center;
+
+}
+
+h3{
+	color: pink;
+	font-style:italic;
+	text-align:center;
+
+}
+.divvy {
+  border: 5px outset blue;
+  background-color: silver;
+  text-align: center;
+}
+.pgTwo {
+  border: 5px outset blue;
+  background-color: black;
+  text-align: center;
+}
+.img-container {
+        text-align: center;
+      }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+ 
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
